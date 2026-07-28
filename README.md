@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Dynamic Programming
