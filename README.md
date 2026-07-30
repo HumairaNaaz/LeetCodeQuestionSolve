@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+| [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +104,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 <!---LeetCode Topics End-->
