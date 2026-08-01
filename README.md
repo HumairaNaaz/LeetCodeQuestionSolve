@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
