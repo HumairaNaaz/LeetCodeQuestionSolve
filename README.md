@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
