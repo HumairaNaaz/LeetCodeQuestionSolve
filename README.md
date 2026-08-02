@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -108,11 +110,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
