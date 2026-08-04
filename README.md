@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3731-find-missing-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
