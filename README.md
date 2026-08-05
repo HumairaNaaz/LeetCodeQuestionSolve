@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Heap (Priority Queue)
