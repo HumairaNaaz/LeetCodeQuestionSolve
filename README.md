@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
