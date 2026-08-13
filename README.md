@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
