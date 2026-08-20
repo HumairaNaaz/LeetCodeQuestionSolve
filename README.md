@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
@@ -241,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
