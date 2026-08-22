@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
