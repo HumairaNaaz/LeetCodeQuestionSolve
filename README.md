@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -225,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1208-get-equal-substrings-within-budget](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
