@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0078-subsets/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -295,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
