@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
