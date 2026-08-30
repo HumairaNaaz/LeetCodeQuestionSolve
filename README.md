@@ -309,4 +309,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0014-longest-common-prefix/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
