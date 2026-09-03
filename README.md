@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -339,16 +340,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
