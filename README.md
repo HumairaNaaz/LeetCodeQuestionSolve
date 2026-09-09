@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0991-broken-calculator](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0991-broken-calculator/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
@@ -400,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
