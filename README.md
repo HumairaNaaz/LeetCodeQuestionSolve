@@ -355,12 +355,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
