@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -412,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
