@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
