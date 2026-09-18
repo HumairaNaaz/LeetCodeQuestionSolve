@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1208-get-equal-substrings-within-budget](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1328-break-a-palindrome](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1328-break-a-palindrome/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0991-broken-calculator/) | Medium |
 | [1328-break-a-palindrome](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1328-break-a-palindrome/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
