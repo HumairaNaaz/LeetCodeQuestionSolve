@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0836-rectangle-overlap/) | Easy |
