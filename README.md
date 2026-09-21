@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3870-count-commas-in-range/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
