@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
