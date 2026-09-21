@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
