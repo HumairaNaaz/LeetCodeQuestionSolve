@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0231-power-of-two/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0504-base-7/) | Easy |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
