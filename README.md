@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
