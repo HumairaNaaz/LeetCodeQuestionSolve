@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
