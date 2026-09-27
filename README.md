@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0763-partition-labels](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0838-push-dominoes/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
