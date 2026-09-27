@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1328-break-a-palindrome](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1328-break-a-palindrome/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,4 +529,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1025-divisor-game/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
