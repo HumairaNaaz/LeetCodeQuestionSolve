@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,4 +537,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
