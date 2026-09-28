@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Floyd's Cycle Finding Algorithm
