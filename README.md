@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0228-summary-ranges/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0496-next-greater-element-i/) | Easy |
