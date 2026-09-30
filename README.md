@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1002-find-common-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1002-find-common-characters/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1328-break-a-palindrome](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1328-break-a-palindrome/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0496-next-greater-element-i/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
