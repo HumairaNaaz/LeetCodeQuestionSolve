@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0076-minimum-window-substring/) | Hard |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -557,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
