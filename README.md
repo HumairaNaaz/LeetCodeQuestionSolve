@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0415-add-strings/) | Easy |
