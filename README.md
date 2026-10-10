@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 ## Enumeration
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -390,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
