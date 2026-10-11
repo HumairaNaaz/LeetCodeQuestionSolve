@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
