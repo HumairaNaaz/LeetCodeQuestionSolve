@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2953-count-complete-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2953-count-complete-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -606,4 +609,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0258-add-digits/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
