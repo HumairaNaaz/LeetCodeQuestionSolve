@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
