@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
