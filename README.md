@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
