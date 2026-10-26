@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
