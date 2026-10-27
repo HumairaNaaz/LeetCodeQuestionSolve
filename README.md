@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0867-transpose-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
