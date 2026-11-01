@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0496-next-greater-element-i/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
