@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0836-rectangle-overlap/) | Easy |
 | [0991-broken-calculator](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0991-broken-calculator/) | Medium |
 | [1025-divisor-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1025-divisor-game/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1025-divisor-game/) | Easy |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
