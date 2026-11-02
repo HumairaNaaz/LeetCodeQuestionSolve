@@ -709,4 +709,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
