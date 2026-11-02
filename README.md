@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0496-next-greater-element-i/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0415-add-strings/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0414-third-maximum-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0948-bag-of-tokens/) | Medium |
