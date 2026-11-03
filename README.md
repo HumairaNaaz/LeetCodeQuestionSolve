@@ -719,4 +719,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
