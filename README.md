@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
