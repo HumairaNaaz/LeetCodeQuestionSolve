@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0136-single-number/) | Easy |
+| [0198-house-robber](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0228-summary-ranges/) | Easy |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0198-house-robber](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0509-fibonacci-number/) | Easy |
