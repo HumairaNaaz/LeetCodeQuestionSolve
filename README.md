@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
