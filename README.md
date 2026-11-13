@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -307,11 +308,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0496-next-greater-element-i/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0962-maximum-width-ramp/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -483,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -539,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
