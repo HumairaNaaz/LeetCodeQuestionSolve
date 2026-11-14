@@ -759,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0182-duplicate-emails](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0626-exchange-seats](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0626-exchange-seats/) | Medium |
 | [1527-patients-with-a-condition](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1527-patients-with-a-condition/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
