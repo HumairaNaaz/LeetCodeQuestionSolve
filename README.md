@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
