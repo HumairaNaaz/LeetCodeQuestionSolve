@@ -760,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0185-department-top-three-salaries/) | Hard |
