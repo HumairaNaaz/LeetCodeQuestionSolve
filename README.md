@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0867-transpose-matrix/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
