@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
