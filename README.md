@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2762-continuous-subarrays](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
