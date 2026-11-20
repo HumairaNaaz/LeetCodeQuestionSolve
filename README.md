@@ -778,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0182-duplicate-emails](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0596-classes-with-at-least-5-students](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0626-exchange-seats](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0626-exchange-seats/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1251-average-selling-price/) | Easy |
