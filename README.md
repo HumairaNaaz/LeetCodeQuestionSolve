@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2567-minimum-score-by-changing-two-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
