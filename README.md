@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
@@ -624,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -634,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
