@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
