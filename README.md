@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3261-count-substrings-that-satisfy-k-constraint-ii/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3634-minimum-removals-to-balance-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Greedy
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -750,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
