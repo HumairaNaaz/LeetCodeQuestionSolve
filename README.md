@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2409-count-days-spent-together](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2409-count-days-spent-together/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
