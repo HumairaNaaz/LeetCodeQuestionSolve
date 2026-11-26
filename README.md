@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1436-destination-city](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1436-destination-city/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1496-path-crossing](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1422-maximum-score-after-splitting-a-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1436-destination-city/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1496-path-crossing](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/HumairaNaaz/LeetCodeQuestionSolve/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
